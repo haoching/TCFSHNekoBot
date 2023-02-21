@@ -4,7 +4,7 @@ from os import environ
 from dotenv import load_dotenv
 import matplotlib.pyplot as plt
 import json
-import requests
+#import requests
 
 load_dotenv()
 
